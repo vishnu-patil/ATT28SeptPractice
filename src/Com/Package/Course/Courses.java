@@ -11,4 +11,9 @@ public class Courses {
 	{
 		System.out.println("List of Available Courses.");
 	}
+	
+	public void courseInformation()
+	{
+		System.out.println("Information of related course.");
+	}
 }
