@@ -11,4 +11,9 @@ public class Homepage {
 	{
 		System.out.println("URL of Home Page.");
 	}
+	
+	public void getPageText()
+	{
+		System.out.println("Text of Home Page.");
+	}
 }
