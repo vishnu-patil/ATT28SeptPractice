@@ -1,4 +1,4 @@
-package Com.Package.Home;
+package com.git.home;
 
 public class Homepage {
 

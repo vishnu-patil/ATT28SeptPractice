@@ -1,4 +1,4 @@
-package Com.Package.Course;
+package com.git.course;
 
 public class Courses {
 
