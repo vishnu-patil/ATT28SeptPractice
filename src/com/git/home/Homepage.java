@@ -16,4 +16,9 @@ public class Homepage {
 	{
 		System.out.println("Text of Home Page.");
 	}
+	
+	public void getPageItems()
+	{
+		System.out.println("Verify Page Items.");
+	}
 }
