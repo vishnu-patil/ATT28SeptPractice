@@ -4,6 +4,6 @@ public class Profile {
 
 	public void getUserProfiles()
 	{
-		System.out.println("List of User Profiles.");
+		System.out.println("List of User Profiles made by User 1.");
 	}
 }
