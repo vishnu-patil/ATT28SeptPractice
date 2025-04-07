@@ -12,7 +12,7 @@ public class Homepage {
 		System.out.println("URL of Home Page.");
 	}
 	
-	public void getPageText()
+	public void getPageData()
 	{
 		System.out.println("Text of Home Page.");
 	}
