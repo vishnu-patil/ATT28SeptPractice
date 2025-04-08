@@ -16,4 +16,9 @@ public class Courses {
 	{
 		System.out.println("Information of related course.");
 	}
+	
+	public void courseFees()
+	{
+		System.out.println("Course Fees...");
+	}
 }
